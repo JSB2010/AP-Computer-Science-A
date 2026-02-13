@@ -1,0 +1,15 @@
+JoePlumbing plumbing 555-1212
+CityCafe restaurant 555-3333
+TechFixers electronics 555-9876
+GreenGarden florist 555-6543
+QuickHealth pharmacy 555-2222
+AutoPros auto_repair 555-4444
+BookNook bookstore 555-7777
+FitLifeGym gym 555-8888
+BeautyBliss salon 555-9999
+PetPalace pet_store 555-0001
+BakersDelight bakery 555-1234
+HardwareHub hardware 555-2345
+FuelStop gas_station 555-3456
+BrightSmiles dentist 555-4567
+JavaBeans coffee_shop 555-5678
